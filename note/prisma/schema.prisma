@@ -12,7 +12,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = "postgresql://prisma.vlwvkrahickjcwrslqum:hoaivu388@aws-1-ap-southeast-1.pooler.supabase.com:5432/postgres?sslmode=require"
 }
 
 model Note {
