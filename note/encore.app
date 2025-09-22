@@ -1,4 +1,4 @@
 {
-	"id":   "note-itmi",
-	"lang": "typescript"
+	"id": "note-itmi",
+	"lang": "typescript",
 }
